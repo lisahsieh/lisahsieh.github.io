@@ -1,0 +1,28 @@
+
+header{
+    width: 100%;
+    height: 400px;
+    border:1px solider black;
+    background-color:beige;
+    background: url('https://unsplash.it/1000/400/?image=601')no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    cursor: pointer;
+}
+.row{
+    width: 900px;
+  
+    overflow: auto;
+    margin: 0 auto;
+}
+.col{
+    width: :300px;
+    height: 200px;
+
+    float: left;
+    padding: 20px 10px;
+    border: 1px solid black;
+    
+
+    
+}
